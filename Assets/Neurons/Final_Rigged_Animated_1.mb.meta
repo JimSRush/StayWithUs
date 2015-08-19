@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: a6d307cb48cc2204ab6f93f462c7d361
+timeCreated: 1434797678
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: joint1
+    100004: joint10
+    100006: joint11
+    100008: joint12
+    100010: joint13
+    100012: joint14
+    100014: joint15
+    100016: joint16
+    100018: joint17
+    100020: joint18
+    100022: joint19
+    100024: joint2
+    100026: joint20
+    100028: joint21
+    100030: joint22
+    100032: joint23
+    100034: joint24
+    100036: joint25
+    100038: joint26
+    100040: joint27
+    100042: joint3
+    100044: joint31
+    100046: joint32
+    100048: joint34
+    100050: joint36
+    100052: joint37
+    100054: joint38
+    100056: joint39
+    100058: joint4
+    100060: joint40
+    100062: joint41
+    100064: joint5
+    100066: joint6
+    100068: joint7
+    100070: joint8
+    100072: joint9
+    100074: pSphere1_0
+    400000: //RootNode
+    400002: joint1
+    400004: joint10
+    400006: joint11
+    400008: joint12
+    400010: joint13
+    400012: joint14
+    400014: joint15
+    400016: joint16
+    400018: joint17
+    400020: joint18
+    400022: joint19
+    400024: joint2
+    400026: joint20
+    400028: joint21
+    400030: joint22
+    400032: joint23
+    400034: joint24
+    400036: joint25
+    400038: joint26
+    400040: joint27
+    400042: joint3
+    400044: joint31
+    400046: joint32
+    400048: joint34
+    400050: joint36
+    400052: joint37
+    400054: joint38
+    400056: joint39
+    400058: joint4
+    400060: joint40
+    400062: joint41
+    400064: joint5
+    400066: joint6
+    400068: joint7
+    400070: joint8
+    400072: joint9
+    400074: pSphere1_0
+    4300000: pSphere1_0
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: pSphere1_0
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 943
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/joint3
+        weight: 1
+      - path: joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint1/joint6
+        weight: 1
+      - path: joint1/joint6/joint39
+        weight: 1
+      - path: joint1/joint6/joint39/joint7
+        weight: 1
+      - path: joint1/joint6/joint39/joint7/joint8
+        weight: 1
+      - path: joint1/joint9
+        weight: 1
+      - path: joint1/joint9/joint38
+        weight: 1
+      - path: joint1/joint9/joint38/joint10
+        weight: 1
+      - path: joint1/joint9/joint38/joint10/joint11
+        weight: 1
+      - path: joint1/joint12
+        weight: 1
+      - path: joint1/joint12/joint32
+        weight: 1
+      - path: joint1/joint12/joint32/joint13
+        weight: 1
+      - path: joint1/joint12/joint32/joint13/joint31
+        weight: 1
+      - path: joint1/joint12/joint32/joint13/joint31/joint14
+        weight: 1
+      - path: joint1/joint15
+        weight: 1
+      - path: joint1/joint15/joint41
+        weight: 1
+      - path: joint1/joint15/joint41/joint16
+        weight: 1
+      - path: joint1/joint15/joint41/joint16/joint17
+        weight: 1
+      - path: joint1/joint18
+        weight: 1
+      - path: joint1/joint18/joint19
+        weight: 1
+      - path: joint1/joint18/joint19/joint20
+        weight: 1
+      - path: joint1/joint18/joint19/joint20/joint21
+        weight: 1
+      - path: joint1/joint22
+        weight: 1
+      - path: joint1/joint22/joint34
+        weight: 1
+      - path: joint1/joint22/joint34/joint23
+        weight: 1
+      - path: joint1/joint22/joint34/joint23/joint40
+        weight: 1
+      - path: joint1/joint22/joint34/joint23/joint40/joint24
+        weight: 1
+      - path: joint1/joint25
+        weight: 1
+      - path: joint1/joint25/joint36
+        weight: 1
+      - path: joint1/joint25/joint36/joint26
+        weight: 1
+      - path: joint1/joint25/joint36/joint26/joint37
+        weight: 1
+      - path: joint1/joint25/joint36/joint26/joint37/joint27
+        weight: 1
+      - path: pSphere1_0
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

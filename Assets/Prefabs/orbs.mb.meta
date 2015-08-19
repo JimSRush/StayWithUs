@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: b1964021eeedd9f4498e583c44f762e4
+timeCreated: 1431825091
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: controlGeometries1
+    100002: dragField1
+    100004: dragField2
+    100006: emitter1
+    100008: emitter2
+    100010: fromControl1
+    100012: fromDir1
+    100014: fromDirHandle1
+    100016: fromPoint1
+    100018: gravityField1
+    100020: gravityField2
+    100022: group1
+    100024: group2
+    100026: joint1
+    100028: joint2
+    100030: joint3
+    100032: joint4
+    100034: Lightning1
+    100036: lightningCurve1
+    100038: lightningCurve1Particle
+    100040: LightningSurface1
+    100042: nurbsCircle1
+    100044: //RootNode
+    100046: particle1
+    100048: particleShape1_fireDirection
+    100050: particleShape1_fireOrientation
+    100052: particleShape2_fireDirection
+    100054: particleShape2_fireOrientation
+    100056: place3dTexture1
+    100058: place3dTexture2
+    100060: pointLight1
+    100062: pSphere1
+    100064: pSphere2
+    100066: pSphere3
+    100068: pSphere4
+    100070: pSphere5
+    100072: pSphere6
+    100074: pSphere7
+    100076: pTorus2
+    100078: pTorus3
+    100080: pTorus4
+    100082: pTorus5
+    100084: sunDirection
+    100086: toControl1
+    100088: toDir1
+    100090: toDirHandle1
+    100092: toPoint1
+    100094: transform1
+    100096: transform2
+    100098: turbulenceField1
+    100100: turbulenceField2
+    400000: controlGeometries1
+    400002: dragField1
+    400004: dragField2
+    400006: emitter1
+    400008: emitter2
+    400010: fromControl1
+    400012: fromDir1
+    400014: fromDirHandle1
+    400016: fromPoint1
+    400018: gravityField1
+    400020: gravityField2
+    400022: group1
+    400024: group2
+    400026: joint1
+    400028: joint2
+    400030: joint3
+    400032: joint4
+    400034: Lightning1
+    400036: lightningCurve1
+    400038: lightningCurve1Particle
+    400040: LightningSurface1
+    400042: nurbsCircle1
+    400044: //RootNode
+    400046: particle1
+    400048: particleShape1_fireDirection
+    400050: particleShape1_fireOrientation
+    400052: particleShape2_fireDirection
+    400054: particleShape2_fireOrientation
+    400056: place3dTexture1
+    400058: place3dTexture2
+    400060: pointLight1
+    400062: pSphere1
+    400064: pSphere2
+    400066: pSphere3
+    400068: pSphere4
+    400070: pSphere5
+    400072: pSphere6
+    400074: pSphere7
+    400076: pTorus2
+    400078: pTorus3
+    400080: pTorus4
+    400082: pTorus5
+    400084: sunDirection
+    400086: toControl1
+    400088: toDir1
+    400090: toDirHandle1
+    400092: toPoint1
+    400094: transform1
+    400096: transform2
+    400098: turbulenceField1
+    400100: turbulenceField2
+    2300000: pSphere1
+    2300002: pSphere2
+    2300004: pSphere3
+    2300006: pSphere4
+    2300008: pSphere7
+    2300010: pTorus2
+    2300012: pTorus3
+    2300014: pTorus4
+    2300016: pTorus5
+    3300000: pSphere1
+    3300002: pSphere2
+    3300004: pSphere3
+    3300006: pSphere4
+    3300008: pSphere7
+    3300010: pTorus2
+    3300012: pTorus3
+    3300014: pTorus4
+    3300016: pTorus5
+    4300000: pSphere1
+    4300002: pSphere2
+    4300004: pSphere3
+    4300006: pSphere4
+    4300008: pTorus2
+    4300010: pTorus3
+    4300012: pTorus4
+    4300014: pTorus5
+    4300016: pSphere7
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: dragField1
+        weight: 1
+      - path: dragField2
+        weight: 1
+      - path: gravityField1
+        weight: 1
+      - path: gravityField2
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/particleShape1_fireDirection
+        weight: 1
+      - path: group1/particleShape1_fireOrientation
+        weight: 1
+      - path: group1/place3dTexture1
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/particleShape2_fireDirection
+        weight: 1
+      - path: group2/particleShape2_fireOrientation
+        weight: 1
+      - path: group2/place3dTexture2
+        weight: 1
+      - path: Lightning1
+        weight: 1
+      - path: Lightning1/controlGeometries1
+        weight: 1
+      - path: Lightning1/controlGeometries1/lightningCurve1
+        weight: 1
+      - path: Lightning1/controlGeometries1/lightningCurve1/lightningCurve1Particle
+        weight: 1
+      - path: Lightning1/controlGeometries1/nurbsCircle1
+        weight: 1
+      - path: Lightning1/fromControl1
+        weight: 1
+      - path: Lightning1/fromControl1/fromPoint1
+        weight: 1
+      - path: Lightning1/fromControl1/fromPoint1/fromDir1
+        weight: 1
+      - path: Lightning1/fromControl1/fromPoint1/fromDirHandle1
+        weight: 1
+      - path: Lightning1/fromControl1/joint1
+        weight: 1
+      - path: Lightning1/fromControl1/joint1/joint2
+        weight: 1
+      - path: Lightning1/LightningSurface1
+        weight: 1
+      - path: Lightning1/pointLight1
+        weight: 1
+      - path: Lightning1/toControl1
+        weight: 1
+      - path: Lightning1/toControl1/joint3
+        weight: 1
+      - path: Lightning1/toControl1/joint3/joint4
+        weight: 1
+      - path: Lightning1/toControl1/toPoint1
+        weight: 1
+      - path: Lightning1/toControl1/toPoint1/toDir1
+        weight: 1
+      - path: Lightning1/toControl1/toPoint1/toDirHandle1
+        weight: 1
+      - path: particle1
+        weight: 1
+      - path: pSphere1
+        weight: 1
+      - path: pSphere2
+        weight: 1
+      - path: pSphere3
+        weight: 1
+      - path: pSphere3/emitter1
+        weight: 1
+      - path: pSphere3/emitter2
+        weight: 1
+      - path: pSphere3/turbulenceField1
+        weight: 1
+      - path: pSphere3/turbulenceField2
+        weight: 1
+      - path: pSphere4
+        weight: 1
+      - path: pSphere5
+        weight: 1
+      - path: pSphere5/transform2
+        weight: 1
+      - path: pSphere6
+        weight: 1
+      - path: pSphere6/transform1
+        weight: 1
+      - path: pSphere7
+        weight: 1
+      - path: pTorus2
+        weight: 1
+      - path: pTorus3
+        weight: 1
+      - path: pTorus4
+        weight: 1
+      - path: pTorus5
+        weight: 1
+      - path: sunDirection
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

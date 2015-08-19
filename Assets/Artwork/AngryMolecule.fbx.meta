@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: d36b00ae6f85441439e040c4b4adb796
+timeCreated: 1435016215
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ambientLight1
+    100002: //RootNode
+    100004: directionalLight1
+    100006: dragField1
+    100008: emitter1
+    100010: gravityField1
+    100012: pSphere10
+    100014: pSphere12
+    100016: pSphere13
+    100018: pSphere14
+    100020: pSphere15
+    100022: pSphere7
+    100024: pSphere8
+    100026: pSphere9
+    100028: pTorus1
+    100030: Spiky
+    100032: spotLight1
+    100034: turbulenceField1
+    400000: ambientLight1
+    400002: //RootNode
+    400004: directionalLight1
+    400006: dragField1
+    400008: emitter1
+    400010: gravityField1
+    400012: pSphere10
+    400014: pSphere12
+    400016: pSphere13
+    400018: pSphere14
+    400020: pSphere15
+    400022: pSphere7
+    400024: pSphere8
+    400026: pSphere9
+    400028: pTorus1
+    400030: Spiky
+    400032: spotLight1
+    400034: turbulenceField1
+    2300000: pSphere10
+    2300002: pSphere12
+    2300004: pSphere13
+    2300006: pSphere14
+    2300008: pSphere15
+    2300010: pSphere7
+    2300012: pSphere8
+    2300014: pSphere9
+    2300016: pTorus1
+    3300000: pSphere10
+    3300002: pSphere12
+    3300004: pSphere13
+    3300006: pSphere14
+    3300008: pSphere15
+    3300010: pSphere7
+    3300012: pSphere8
+    3300014: pSphere9
+    3300016: pTorus1
+    4300000: pTorus1
+    4300002: pSphere7
+    4300004: pSphere8
+    4300006: pSphere9
+    4300008: pSphere10
+    4300010: pSphere12
+    4300012: pSphere13
+    4300014: pSphere14
+    4300016: pSphere15
+    4300018: Spiky
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Spiky
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
